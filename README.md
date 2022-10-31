@@ -39,4 +39,3 @@ Tu trouveras dans la repo:
 - un cahier des charges
 - des user stories
 - un premier MCD
-- un début de wireframe
